@@ -10,14 +10,14 @@
 pip install -r requirements.txt
 ```
 
-### 1. Настройка
+### 2. Настройка
 Добавь в код токен бота и айди чата в который вы хотите чтобы бот присылал викторины:
 ```ini
 TOKEN=your_telegram_bot_token
 CHAT_ID=your_chat_id
 ```
 
-### 1. Запуск бота
+### 3. Запуск бота
 ```bash
 python index.py
 ```
